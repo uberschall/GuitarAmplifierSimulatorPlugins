@@ -10,6 +10,7 @@ I have my own blog to release those plugins at https://tonebrewer.wordpress.com/
  * Orange Tiny Terror
  * Orange Dark Terror
  * Peavey 6505+
+ * Soldano SLO-100
  * MesaBoogie LoneStar
  * MesaBoogie Mark IIc+
  * MesaBoogie Mark V
