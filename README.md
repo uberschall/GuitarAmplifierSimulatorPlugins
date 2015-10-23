@@ -1,4 +1,4 @@
-# GuitarAmplifierSimulatorPlugins
+# Guitar Amplifier Simulator Plugins
 
 Currently plugin development is being done at bitbucket privately.
 
