@@ -11,6 +11,7 @@ I have my own blog to release those plugins at https://tonebrewer.wordpress.com/
  * Orange Dark Terror
  * Peavey 6505+
  * Soldano SLO-100
+ * MesaBoogie Subway Rocket
  * MesaBoogie LoneStar
  * MesaBoogie Mark IIc+
  * MesaBoogie Mark V
